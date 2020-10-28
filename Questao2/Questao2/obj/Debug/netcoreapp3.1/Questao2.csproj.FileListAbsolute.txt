@@ -11,3 +11,16 @@ C:\Users\Olimpiadas\Desktop\ExercicioFixacao-CarlosGuilhermeMirandaFinelli\Quest
 C:\Users\Olimpiadas\Desktop\ExercicioFixacao-CarlosGuilhermeMirandaFinelli\Questao2\Questao2\obj\Debug\netcoreapp3.1\Questao2.dll
 C:\Users\Olimpiadas\Desktop\ExercicioFixacao-CarlosGuilhermeMirandaFinelli\Questao2\Questao2\obj\Debug\netcoreapp3.1\Questao2.pdb
 C:\Users\Olimpiadas\Desktop\ExercicioFixacao-CarlosGuilhermeMirandaFinelli\Questao2\Questao2\obj\Debug\netcoreapp3.1\Questao2.genruntimeconfig.cache
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\bin\Debug\netcoreapp3.1\Questao2.exe
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\bin\Debug\netcoreapp3.1\Questao2.deps.json
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\bin\Debug\netcoreapp3.1\Questao2.runtimeconfig.json
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\bin\Debug\netcoreapp3.1\Questao2.runtimeconfig.dev.json
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\bin\Debug\netcoreapp3.1\Questao2.dll
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\bin\Debug\netcoreapp3.1\Questao2.pdb
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\obj\Debug\netcoreapp3.1\Questao2.csprojAssemblyReference.cache
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\obj\Debug\netcoreapp3.1\Questao2.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\obj\Debug\netcoreapp3.1\Questao2.AssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\obj\Debug\netcoreapp3.1\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\obj\Debug\netcoreapp3.1\Questao2.dll
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\obj\Debug\netcoreapp3.1\Questao2.pdb
+C:\Users\Carlos\Documents\GitHub\Ativ12_Carlos\Questao2\Questao2\obj\Debug\netcoreapp3.1\Questao2.genruntimeconfig.cache

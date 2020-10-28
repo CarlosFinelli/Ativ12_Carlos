@@ -11,7 +11,9 @@ namespace Questao2
 
         public double Conversao()
         {
-            reais = (valor * cotacao) + valor * 0.06;
+            double percent = valor * 0.06;
+            reais = (valor * cotacao);
+            reais += percent;
             return Math.Round(reais, 2);
         }
     }

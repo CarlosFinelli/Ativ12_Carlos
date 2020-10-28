@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Olimpiadas\\Desktop\\ExercicioFixacao-CarlosGuilhermeMirandaFinelli\\Questao2\\Questao2\\Questao2.csproj": {}
+    "C:\\Users\\Carlos\\Documents\\GitHub\\Ativ12_Carlos\\Questao2\\Questao2\\Questao2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Olimpiadas\\Desktop\\ExercicioFixacao-CarlosGuilhermeMirandaFinelli\\Questao2\\Questao2\\Questao2.csproj": {
+    "C:\\Users\\Carlos\\Documents\\GitHub\\Ativ12_Carlos\\Questao2\\Questao2\\Questao2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Olimpiadas\\Desktop\\ExercicioFixacao-CarlosGuilhermeMirandaFinelli\\Questao2\\Questao2\\Questao2.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos\\Documents\\GitHub\\Ativ12_Carlos\\Questao2\\Questao2\\Questao2.csproj",
         "projectName": "Questao2",
-        "projectPath": "C:\\Users\\Olimpiadas\\Desktop\\ExercicioFixacao-CarlosGuilhermeMirandaFinelli\\Questao2\\Questao2\\Questao2.csproj",
-        "packagesPath": "C:\\Users\\Olimpiadas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Olimpiadas\\Desktop\\ExercicioFixacao-CarlosGuilhermeMirandaFinelli\\Questao2\\Questao2\\obj\\",
+        "projectPath": "C:\\Users\\Carlos\\Documents\\GitHub\\Ativ12_Carlos\\Questao2\\Questao2\\Questao2.csproj",
+        "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos\\Documents\\GitHub\\Ativ12_Carlos\\Questao2\\Questao2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Olimpiadas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -52,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
